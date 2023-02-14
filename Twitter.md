@@ -3,7 +3,7 @@ You can find all the Twitter Threads
 
 
 
-|  Topic | Link | Title |
+|  Topic | Title | Link |
 |------------- | ------------- | ------------- |
 | Alpha Fold    |Alpha Fold from Google|https://twitter.com/Sumanth_077/status/1578271426942943233?s=20&t=HNDSiGvB4AAe_veTSriAAQ|
 | Simple ML for Sheets    |Introducing Simple ML for Sheets. Let's build Machine Learning Models directly within Google Sheets.|https://twitter.com/Sumanth_077/status/1613083118235422721?s=20&t=HNDSiGvB4AAe_veTSriAAQ|

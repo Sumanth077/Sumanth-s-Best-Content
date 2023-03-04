@@ -5,7 +5,7 @@ You can find all the Twitter Threads
 
 |  Topic | Title | Link |
 |------------- | ------------- | ------------- |
-| Chat GPT    |Behind the Scenes of ChatGPT|https://twitter.com/Sumanth_077/status/1610267246231965696?s=20&t=HNDSiGvB4AAe_veTSriAAQ|
+| Rienforcement Learning with Human Feedback    |Behind the Scenes of ChatGPT|https://twitter.com/Sumanth_077/status/1610267246231965696?s=20&t=HNDSiGvB4AAe_veTSriAAQ|
 | Simple ML for Sheets    |Introducing Simple ML for Sheets. Let's build Machine Learning Models directly within Google Sheets.|https://twitter.com/Sumanth_077/status/1613083118235422721?s=20&t=HNDSiGvB4AAe_veTSriAAQ|
 | Jax    |What is jax and it's really powerful features for Machine Learning|https://twitter.com/Sumanth_077/status/1626573859200831491?s=20|
 | Basic ChatGPT    |Build a Basic ChatGPT like Chatbot with Langchain and Steamship|https://twitter.com/Sumanth_077/status/1628037991771025408?s=20|
